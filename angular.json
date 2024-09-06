@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/my-angular-project",
+            "outputPath": "docs",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": ["zone.js"],
@@ -25,8 +25,7 @@
               }
             ],
             "styles": ["src/styles.css"],
-            "scripts": [],
-            "baseHref": "/my-angular-project/"
+            "scripts": []
           },
           "configurations": {
             "production": {
