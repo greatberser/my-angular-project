@@ -26,7 +26,7 @@
             ],
             "styles": ["src/styles.css"],
             "scripts": [],
-            "baseHref": "/password-strength-indicator/"
+            "baseHref": "/my-angular-project/"
           },
           "configurations": {
             "production": {
